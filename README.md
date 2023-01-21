@@ -37,5 +37,8 @@
 
       
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dharmadev&theme=tokyonight">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3dharmadev=vim%20script)](https://github.com/3dharmadev/github-readme-stats)
+
+
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=3dharmadev&layout=compact"/>(https://github.com/anuraghazra/github-readme-stats)
+
 
