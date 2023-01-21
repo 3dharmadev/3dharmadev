@@ -35,8 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3dharmadev&" alt="3dharmadev" /></p>
 
-      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dharmadev&theme=tokyonight">
+
 
 
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=3dharmadev&layout=compact"/>
