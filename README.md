@@ -38,7 +38,7 @@
 
 
 
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=3dharmadev&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dharmadev&layout=compact"/>
          
 
 
