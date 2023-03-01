@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Debabrata Satapathy(rama)</h1>
-<h3 align="center">A passionate backend developer from Odisha,India</h3>
+<h1 align="center">Hi 👋, I'm Debabrata Satapathy </h1>
+<h3 align="center">A passionate backend developer from  India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3dharmadev&label=Profile%20views&color=0e75b6&style=flat" alt="3dharmadev" /> </p>
 
