@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3dharmadev" alt="3dharmadev" /></a> </p>
 
-- 🔭 I’m currently working on [Online Hardware and software support system](https://github.com/3dharmadev/narrow-shape-2645)
+- 🔭 I’m currently working on Flutter apps
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://3dharmadev.github.io/](https://3dharmadev.github.io/)
 
