@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Flutter apps
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://3dharmadev.github.io/](https://3dharmadev.github.io/)
 
